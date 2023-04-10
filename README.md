@@ -1,1 +1,1 @@
-# atividade-dev
+# curriculo-dev
