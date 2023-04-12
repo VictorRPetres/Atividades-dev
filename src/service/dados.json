@@ -1,0 +1,30 @@
+{
+  "profile": {
+    "img": "https://fastly.picsum.photos/id/718/200/200.jpg?hmac=__zLj3h3wgMNm3OM6xAOydBYFAw3V-LoIymGCluM0mY",
+    "nome": "Victor",
+    "sobrenome": "R Petres",
+    "cidade": "Uberaba",
+    "estado": "MG",
+    "contato": "(34) 99999-9999",
+    "email": "victor.r.p@gmail.com",
+    "biografia": "Olá, meu nome é Victor e tenho 25 anos. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas, um curso que me tem proporcionado uma ampla gama de aprendizados, desde programação até gerenciamento de projetos. Participar de projetos práticos tem sido uma excelente oportunidade para aplicar todo o conhecimento adquirido, e isso tem me permitido desenvolver meus próprios projetos pessoais com mais eficiência.",
+    "lin": "Linkedin",
+    "git": "Github",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Desenvolvedor web",
+        "empresa": "Cloud In byte · Freelance",
+        "periodo": "jan de 2020 - Atual",
+        "atividades": "Desenvolver aplicações e sistemas para a web"
+      }
+    ],
+    "habilidade": {
+      "programacao": "Programação: Habilidade de escrever códigos em linguagens de programação diversas, como Java, JavaScript, entre outras.",
+      "analise": "Análise e design de sistemas: Capacidade de entender e modelar problemas para projetar soluções de software adequadas, eficientes e eficazes.",
+      "bdd": "Banco de Dados: Habilidade de projetar, implementar e gerenciar bancos de dados e sistemas de informação, utilizando ferramentas como Oracle.",
+      "web": "Desenvolvimento web: Capacidade de desenvolver aplicações e sistemas para a web, incluindo o uso de frameworks como React.",
+      "curriculodev": "Esse projeto foi desenvolvido, pois várias empresas de tecnologia têm se interessado em profissionais com habilidades em programação e desenvolvimento de sistemas. Dessa forma, a criação de um currículo que demonstre essas habilidades pode ser uma excelente oportunidade de se destacar na busca por uma vaga de emprego."
+    }
+  }
+}
