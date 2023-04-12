@@ -83,6 +83,20 @@ const Section = ({ profile }) => (
       <Title texto="Projetos" />
       <SubTitle texto="Currículo DEV" />
       <p>{profile.habilidade.curriculodev}</p>
+      <p>{profile.habilidade.projeto}</p>
+      <p>
+        <a
+          href="https://github.com/VictorRPetres/Atividades-dev"
+          target="_blank"
+          rel="noreferrer noopener"
+          title="GitHub"
+        >
+          <Highlight>
+            <BsGithub />
+            {profile.git}
+          </Highlight>
+        </a>
+      </p>
     </Sections>
   </>
 );
